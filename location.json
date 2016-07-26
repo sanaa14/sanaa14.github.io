@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "street": "749 SilverLake Rd",
+    "city": "Wilmington",
+    "state": "NC",
+    "zip": 28412,
+    "phone_number": "(910) 742 2463",
+    "type": "Home"
+  },
+  {
+    "id": 2,
+    "street": "232 Causeway Drive",
+    "city": "Wrightsville Beach",
+    "state": "NC",
+    "zip": 28480,
+    "phone_number": "(888) 577 7409",
+    "type": "Work"
+  }
+]

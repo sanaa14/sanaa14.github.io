@@ -1,0 +1,11 @@
+<h2>Contact</h2>
+<p>Please email me at anish220@yahoo.com</p>
+<h3>Location</h3>
+<div ng-repeat="contact in contacts">
+<h4>{{contact.type}}</h4>
+  <ul class="location">
+    <li>{{contact.street}}</li>
+    <li>{{contact.city}}, {{contact.state}} - {{contact.zip}}</li>
+    <li>{{contact.phone_number}}</li>
+  </ul>
+</div>
